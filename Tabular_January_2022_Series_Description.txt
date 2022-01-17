@@ -1,0 +1,19 @@
+Models used in final prediction:
+XGBRegressor
+
+Other models tested:
+CatBoost
+Lasso
+Ridge
+
+Workflow:
+EDA
+Feature engineering
+- Mostly introducing time variables for seasonality and holiday effects.
+Models testing and finalization
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+There are two (fictitious) independent store chains selling Kaggle merchandise that want to become the official outlet for all things Kaggle. We've decided to see if the Kaggle community could help us figure out which of the store chains would have the best sales going forward. So, we've collected some data and are asking you to build forecasting models to help us decide.
+Help us figure out whether KaggleMart or KaggleRama should become the official Kaggle outlet!
